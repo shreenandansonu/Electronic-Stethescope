@@ -1,4 +1,5 @@
-![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-green?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Analog%20Frontend-blue?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-yellow?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) 
+![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-green?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Analog%20Frontend-blue?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-yellow?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) ![Static Badge](https://img.shields.io/badge/Software-Download-violet?style=flat-square&link=https%3A%2F%2Fcmcekobit.netlify.app%2F)
+
 # **EKOBIT** | Electronics Stethoscope
 
 This project aims at making an affordable yet powerful **electronics stethoscope** to **record and listen** to the Heart and Lungs Sound. The stethoscope would be primarily used for teaching purposes for medical students at CMC Vellore, Bagayam Campus, Vellore, Tamil Nadu India. Below mentioned are the objective.
