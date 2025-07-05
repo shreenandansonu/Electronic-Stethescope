@@ -56,7 +56,7 @@ Digitial Version of this device is in progress........
 
 ---
 
-| **FINAL PRODUCT PICS** | ***ONLY HARDWARE*** |
+| **FINAL PRODUCT PICS** | ***HARDWARE*** |
 | :-------------------------------------------: | :-------------------------: |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a1.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a2.jpg) |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a3.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a4.jpg) |
@@ -65,10 +65,12 @@ Digitial Version of this device is in progress........
 
 ---
 ### **BEHIND THE DEVELOPMENT**
-| **FINAL PRODUCT DEVELOPMENT** | ***Working out the product*** |
+| **FINAL PRODUCT DEVELOPMENT** | ***Building the product*** |
 | :-------------------------------------------: | :-------------------------: |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/10.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/9.jpg) |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/6.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/7.jpg) |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a10.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a9.jpg) |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a6.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a7.jpg) |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/b1.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/b2.jpg) |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/b4.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/b3.jpg) |
 
 ![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip1.jpg)
 
