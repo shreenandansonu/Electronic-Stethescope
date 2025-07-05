@@ -35,9 +35,17 @@ Digitial Version of this device is in progress........
 ---
 | Stethoscope Connector | Stethoscope Enclouser |
 | :-------------------------------------------: | :-------------------------------------------: |
+<<<<<<< HEAD
 | ![EKOBIT Stethoconn](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/11.jpg)  | ![EKOBIT enclouser](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/12.png) |
+=======
+| ![EKOBIT Stethoconn](https://ekobitpics.netlify.app/11.jpg)  | ![EKOBIT enclouser](https://ekobitpics.netlify.app/12.png) |
+>>>>>>> 735489f25a599166a19664f791ddabf73aef2507
 
 
 ### **RAW VS PROCESSED signal DSO**
 
+<<<<<<< HEAD
 ![DSO Compare](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/13.png)
+=======
+![DSO Compare](https://ekobitpics.netlify.app/13.png)
+>>>>>>> 735489f25a599166a19664f791ddabf73aef2507
