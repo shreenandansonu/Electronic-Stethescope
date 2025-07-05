@@ -50,6 +50,10 @@ Digitial Version of this device is in progress........
 
 ![Software Anatomy](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/software.png)
 
+### **SPECTOGRAM OF RECORDED SOUND**
+
+![Software Anatomy](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/Spectrogram.png)
+
 
 ---
 ### **BEHIND THE DEVELOPMENT**
