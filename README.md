@@ -38,6 +38,10 @@ Digitial Version of this device is in progress........
 | ![EKOBIT Stethoconn](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/11.jpg)  | ![EKOBIT enclouser](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/12.png) |
 
 
-### **RAW VS PROCESSED signal DSO**
+### **RAW VS PROCESSED** signal DSO
 
 ![DSO Compare](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/13.png)
+
+### **SOFTWARE ANATOMY**
+
+![DSO Compare](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/software.png)
