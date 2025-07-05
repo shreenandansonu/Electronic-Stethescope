@@ -23,7 +23,7 @@ Digitial Version of this device is in progress........
 ```
 
 ## **DEMO**
-![EKOBIT DEMO VIDEO](https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=4&origin=search&related_id=174883)(https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr)
+[EKOBIT DEMO VIDEO](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr)
 ---
 
 | Top View | Bottom View |
@@ -52,8 +52,13 @@ Digitial Version of this device is in progress........
 
 ### **SPECTOGRAM OF RECORDED SOUND**
 
-![Software Anatomy](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/Spectogram.png)
+![Spectrogram](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/Spectogram.png)
 
+
+| Product  | Photos |
+| :-------------------------------------------: | :-------------------------: |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a1.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a2.jpg) |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a3.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a4.jpg) |
 
 ---
 ### **BEHIND THE DEVELOPMENT**
