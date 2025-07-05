@@ -6,7 +6,7 @@ This project aims at making an affordable yet powerful **electronics stethoscope
 
 ---
 
-![EKOBIT PCB IMAGE](https://ekobitpics.netlify.app/iso.png)
+![EKOBIT PCB IMAGE](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/iso.png)
 
 ### **OBJECTIVE**
 ---
@@ -24,18 +24,20 @@ Digitial Version of this device is in progress........
 
 | Top View | Bottom View |
 | :-------------------------------------------: | :-------------------------: |
-| ![Front View](https://ekobitpics.netlify.app/front.png)  |  ![Bottom View](https://ekobitpics.netlify.app/back.png) |
+| ![Front View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/front.png)  |  ![Bottom View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/back.png) |
 
 ---
 | PCB Layout | Schematics |
 | :-------------------------------------------: | :-------------------------------------------: |
-| ![PCB View](https://ekobitpics.netlify.app/PCB.png)  | ![Schematics](https://ekobitpics.netlify.app/schematics.png) |
+| ![PCB View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/PCB.png)  | ![Schematics](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/schematics.png) |
 
 
-### **Stethoscope Connector**
+---
+| Stethoscope Connector | Stethoscope Enclouser |
+| :-------------------------------------------: | :-------------------------------------------: |
+| ![EKOBIT Stethoconn](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/11.jpg)  | ![EKOBIT enclouser](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/12.png) |
 
-![EKOBIT Stethoconn](https://ekobitpics.netlify.app/11.jpg)
 
-### **Stethoscope Enclouser**
+### **RAW VS PROCESSED signal DSO**
 
-![EKOBIT enclouser](https://ekobitpics.netlify.app/12.png)
+![DSO Compare](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/13.png)
