@@ -13,11 +13,11 @@ This project aims at making an affordable yet powerful **electronics stethoscope
 ---
 | Objectives | Status |
 | :-------------------------------------------: | :-------------------------: |
-| Connect stethoscope to a microphone to capture sounds. | ![Static Badge](https://img.shields.io/badge/DONE-green) |
-| Amplify heart and lung sounds using custom circuits. |  ![Static Badge](https://img.shields.io/badge/DONE-green) |
-| Filter captured sounds using built electronic circuits. | ![Static Badge](https://img.shields.io/badge/DONE-green)  |
-| Transfer audio to PC/mobile via 3.5 mm jack. |  ![Static Badge](https://img.shields.io/badge/DONE-green) |
-| Record and save audio using open-source/custom software. | ![Static Badge](https://img.shields.io/badge/DONE-green)  |
+| Connect stethoscope to a microphone to capture sounds. | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) |
+| Amplify heart and lung sounds using custom circuits. |  ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) |
+| Filter captured sounds using built electronic circuits. | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square)  |
+| Transfer audio to PC/mobile via 3.5 mm jack. |  ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) |
+| Record and save audio using open-source/custom software. | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square)  |
 
 ```
 Digitial Version of this device is in progress........
@@ -76,3 +76,6 @@ Digitial Version of this device is in progress........
 ![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip1.jpg)
 
 ![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip2.jpg)
+
+
+### Made by **SHREENANDAN SAHU** 
