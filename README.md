@@ -57,7 +57,7 @@ Digitial Version of this device is in progress........
 
 ---
 ### **FINAL DEVICE DEVELOPED**
-| **FINAL PRODUCT PICS** | ***HARDWARE*** |
+| **FINAL PRODUCT** | **HARDWARE** |
 | :-------------------------------------------: | :-------------------------: |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a1.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a2.jpg) |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a3.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a4.jpg) |
@@ -66,7 +66,7 @@ Digitial Version of this device is in progress........
 
 ---
 ### **BEHIND THE DEVELOPMENT**
-| **FINAL PRODUCT DEVELOPMENT** | ***Building the product*** |
+| **PRODUCT DEVELOPMENT** | **PROTOTYPING** |
 | :-------------------------------------------: | :-------------------------: |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a10.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a9.jpg) |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a6.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a7.jpg) |
