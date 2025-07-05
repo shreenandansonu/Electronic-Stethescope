@@ -54,8 +54,9 @@ Digitial Version of this device is in progress........
 
 ![Spectrogram](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/Spectogram.png)
 
+---
 
-| | |
+| **FINAL PRODUCT PICS** | ***ONLY HARDWARE*** |
 | :-------------------------------------------: | :-------------------------: |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a1.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a2.jpg) |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a3.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a4.jpg) |
@@ -64,6 +65,11 @@ Digitial Version of this device is in progress........
 
 ---
 ### **BEHIND THE DEVELOPMENT**
+| **FINAL PRODUCT DEVELOPMENT** | ***Working out the product*** |
+| :-------------------------------------------: | :-------------------------: |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/10.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/9.jpg) |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/6.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/7.jpg) |
+
 ![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip1.jpg)
 
 ![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip2.jpg)
