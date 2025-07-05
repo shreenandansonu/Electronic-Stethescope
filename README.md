@@ -24,7 +24,7 @@ Digitial Version of this device is in progress........
 
 ## **DEMO**
 [EKOBIT DEMO VIDEO](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr)
-
+---
 
 | Top View | Bottom View |
 | :-------------------------------------------: | :-------------------------: |
@@ -46,6 +46,13 @@ Digitial Version of this device is in progress........
 
 ![DSO Compare](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/13.png)
 
-### **SOFTWARE ANATOMY**
+### **RECORDING SOFTWARE**
 
 ![Software Anatomy](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/software.png)
+
+
+---
+### **BEHIND THE DEVELOPMENT**
+![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip1.jpg)
+
+![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip2.jpg)
