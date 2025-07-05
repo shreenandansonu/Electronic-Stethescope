@@ -23,7 +23,7 @@ Digitial Version of this device is in progress........
 ```
 
 ## **DEMO**
-[EKOBIT DEMO VIDEO](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr)
+![EKOBIT DEMO VIDEO](https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=4&origin=search&related_id=174883)(https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr)
 ---
 
 | Top View | Bottom View |
