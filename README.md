@@ -78,4 +78,4 @@ Digitial Version of this device is in progress........
 ![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip2.jpg)
 
 
-### Made by **SHREENANDAN SAHU** 
+### ![Static Badge](https://img.shields.io/badge/Made%By-Shreenandan%Sahu-orange?style=flat-square)
