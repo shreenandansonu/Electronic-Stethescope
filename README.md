@@ -23,7 +23,7 @@ Digitial Version of this device is in progress........
 ```
 
 ## **DEMO**
-![Youtube Video](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr)
+[EKOBIT DEMO VIDEO](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr)
 
 
 | Top View | Bottom View |
