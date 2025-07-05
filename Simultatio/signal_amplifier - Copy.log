@@ -1,0 +1,60 @@
+LTspice 24.0.9 for Windows
+Circuit: * F:\Digital Stethescope\Simultatio\signal_amplifier - Copy.asc
+Start Time: Sun May 18 21:17:08 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node 3.5v.  This node is used by v3.
+WARNING: Less than two connections to node 0.5v.  This node is used by v4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 2.17438e-07
+vernier = 0.0208333
+vernier = 0.0277778
+Gmin = 2.05632e-07
+vernier = 0.037037
+vernier = 0.0493827
+Gmin = 1.88247e-07
+vernier = 0.0658435
+Gmin = 1.63166e-07
+vernier = 0.0877914
+vernier = 0.117055
+Gmin = 1.29237e-07
+vernier = 0.156073
+vernier = 0.208098
+Gmin = 8.95452e-08
+vernier = 0.277464
+Gmin = 4.96914e-08
+vernier = 0.369952
+vernier = 0.493269
+Gmin = 1.92818e-08
+vernier = 0.657691
+vernier = 0.876922
+Gmin = 4.47601e-09
+vernier = 1
+Gmin = 5.44392e-10
+Gmin = 5.84537e-11
+Gmin = 6.27641e-12
+Gmin = 6.73925e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.224 seconds.
+

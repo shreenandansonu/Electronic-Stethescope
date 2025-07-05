@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Gallery</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f4f4f4;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+    .gallery img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: transform 0.3s;
+    }
+    .gallery img:hover {
+      transform: scale(1.03);
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Project Image Gallery</h1>
+  <div class="gallery">
+    <img src="1.jpg" alt="1">
+    <img src="2.jpg" alt="2">
+    <img src="3.jpg" alt="3">
+    <img src="4.jpg" alt="4">
+    <img src="5.jpg" alt="5">
+    <img src="6.jpg" alt="6">
+    <img src="7.jpg" alt="7">
+    <img src="8.jpg" alt="8">
+    <img src="9.jpg" alt="9">
+    <img src="10.jpg" alt="10">
+    <img src="11.jpg" alt="11">
+    <img src="12.png" alt="12">
+    <img src="13.png" alt="13">
+    <img src="front.png" alt="Front View">
+    <img src="back.png" alt="Back View">
+    <img src="iso.png" alt="Isometric View">
+    <img src="PCB.png" alt="PCB">
+    <img src="schematics.png" alt="Schematics">
+    <img src="screen gif.mp4" alt="Screen Recording" style="border:2px solid red">
+    <img src="WhatsApp Image 2025-07-03 at 23.02.01_c68d69e2.jpg" alt="WhatsApp 1">
+    <img src="WhatsApp Image 2025-07-03 at 23.02.07_1c4442ee.jpg" alt="WhatsApp 2">
+    <img src="WhatsApp Image 2025-07-03 at 23.02.10_744fd8db.jpg" alt="WhatsApp 3">
+    <img src="WhatsApp Image 2025-07-03 at 23.02.11_14fe1d33.jpg" alt="WhatsApp 4">
+  </div>
+
+</body>
+</html>
