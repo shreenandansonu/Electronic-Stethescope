@@ -52,7 +52,7 @@ Digitial Version of this device is in progress........
 
 ### **SPECTOGRAM OF RECORDED SOUND**
 
-![Software Anatomy](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/Spectrogram.png)
+![Software Anatomy](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/Spectogram.png)
 
 
 ---
