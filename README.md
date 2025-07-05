@@ -27,6 +27,10 @@ Digitial Version of this device is in progress........
 [EKOBIT DEMO VIDEO](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr)
 ---
 
+## **SOFTWARE**
+[SOFTWARE DOWNLOAD](https://cmcekobit.netlify.app/)
+---
+
 | Top View | Bottom View |
 | :-------------------------------------------: | :-------------------------: |
 | ![Front View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/front.png)  |  ![Bottom View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/back.png) |
@@ -78,4 +82,4 @@ Digitial Version of this device is in progress........
 ![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip2.jpg)
 
 
-### ![Static Badge](https://img.shields.io/badge/Made%By-Shreenandan%Sahu-orange?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Made%By-Shreenandan%Sahu-orange?style=flat-square)
