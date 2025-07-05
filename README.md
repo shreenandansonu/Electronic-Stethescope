@@ -58,9 +58,9 @@ Digitial Version of this device is in progress........
 | | |
 | :-------------------------------------------: | :-------------------------: |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a1.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a2.jpg) |
-| Product  | Photos |
-| :-------------------------------------------: | :-------------------------: |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a3.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a4.jpg) |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/3.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/5.jpg) |
+| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/7.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/8.jpg) |
 
 ---
 ### **BEHIND THE DEVELOPMENT**
