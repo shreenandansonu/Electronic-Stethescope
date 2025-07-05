@@ -32,10 +32,12 @@ Digitial Version of this device is in progress........
 | ![PCB View](https://ekobitpics.netlify.app/PCB.png)  | ![Schematics](https://ekobitpics.netlify.app/schematics.png) |
 
 
-### **Stethoscope Connector**
+---
+| Stethoscope Connector | Stethoscope Enclouser |
+| :-------------------------------------------: | :-------------------------------------------: |
+| ![EKOBIT Stethoconn](https://ekobitpics.netlify.app/11.jpg)  | ![EKOBIT enclouser](https://ekobitpics.netlify.app/12.png) |
 
-![EKOBIT Stethoconn](https://ekobitpics.netlify.app/11.jpg)
 
-### **Stethoscope Enclouser**
+### **RAW VS PROCESSED signal DSO**
 
-![EKOBIT enclouser](https://ekobitpics.netlify.app/12.png)
+![DSO Compare](https://ekobitpics.netlify.app/13.png)
