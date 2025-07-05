@@ -56,7 +56,7 @@ Digitial Version of this device is in progress........
 ![Spectrogram](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/Spectogram.png)
 
 ---
-
+### **FINAL DEVICE DEVELOPED**
 | **FINAL PRODUCT PICS** | ***HARDWARE*** |
 | :-------------------------------------------: | :-------------------------: |
 | ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a1.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a2.jpg) |
