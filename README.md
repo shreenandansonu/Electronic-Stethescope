@@ -1,4 +1,4 @@
-![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-green?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Analog%20Frontend-blue?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-yellow?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) [![Static Badge](https://img.shields.io/badge/Software-Download-violet?style=flat-square)](https://cmcekobit.netlify.app/)
+![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-124559?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Analog%20Frontend-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-006d77?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) [![Static Badge](https://img.shields.io/badge/Software-Download-3c096c?style=flat-square)](https://cmcekobit.netlify.app/)
 
 # **EKOBIT** | Electronics Stethoscope
 
