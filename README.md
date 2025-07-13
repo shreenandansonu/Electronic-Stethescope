@@ -1,4 +1,4 @@
-![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-green?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Analog%20Frontend-blue?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-yellow?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) [![Static Badge](https://img.shields.io/badge/Software-Download-violet?style=flat-square)](https://cmcekobit.netlify.app/)
+![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-219ebc?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Analog%20Frontend-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-006d77?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) [![Static Badge](https://img.shields.io/badge/Software-Download-3c096c?style=flat-square)](https://cmcekobit.netlify.app/)
 
 # **EKOBIT** | Electronics Stethoscope
 
@@ -82,4 +82,4 @@ Digitial Version of this device is in progress........
 ![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip2.jpg)
 
 
-![Static Badge](https://img.shields.io/badge/Made%20With%20Love%20By-Shreenandan%20Sahu-orange?style=flat-square) ![Static Badge](https://img.shields.io/badge/Designed%20Developed%20&%20Made%20In-INDIA-orange?style=flat-square) 
+![Static Badge](https://img.shields.io/badge/Made%20With%20Love%20By-SHREENANDAN%20SAHU-5a189a?style=flat-square) ![Static Badge](https://img.shields.io/badge/Designed%20Developed%20&%20Made%20In-INDIA-a53860?style=flat-square) 
