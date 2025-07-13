@@ -1,5 +1,7 @@
 ![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-219ebc?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Analog%20Frontend-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-006d77?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) [![Static Badge](https://img.shields.io/badge/Software-Download-3c096c?style=flat-square)](https://cmcekobit.netlify.app/)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![License: CERN-OHL-S v2](https://img.shields.io/badge/License-CERN--OHL--S--v2-blue)](CERN-OHL-S.txt)
+
 # **EKOBIT** | Electronics Stethoscope
 
 This project aims at making an affordable yet powerful **electronics stethoscope** to **record and listen** to the Heart and Lungs Sound. The stethoscope would be primarily used for teaching purposes for medical students at CMC Vellore, Bagayam Campus, Vellore, Tamil Nadu India. Below mentioned are the objective.
@@ -83,8 +85,8 @@ Digitial Version of this device is in progress........
 
 ## License
 
-- Software is licensed under the [MIT License](LICENSE-SOFTWARE).
-- Hardware is licensed under the [CERN-OHL-S v2 License](LICENSE-HARDWARE).
+- Software is licensed under the [MIT License](LICENSE).
+- Hardware is licensed under the [CERN-OHL-S v2 License](CERN-OHL-S.txt).
 
 
 ![Static Badge](https://img.shields.io/badge/Made%20With%20Love%20By-SHREENANDAN%20SAHU-5a189a?style=flat-square) ![Static Badge](https://img.shields.io/badge/Designed%20Developed%20&%20Made%20In-INDIA-a53860?style=flat-square) 
