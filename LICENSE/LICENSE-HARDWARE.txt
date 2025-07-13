@@ -1,0 +1,8 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+You may redistribute and modify the hardware design files under the terms of the CERN-OHL-S v2.
+
+A copy of the full license text is available at:
+https://ohwr.org/project/cernohl/wikis/cern-ohl-v2
+
+SPDX-License-Identifier: CERN-OHL-S-2.0
