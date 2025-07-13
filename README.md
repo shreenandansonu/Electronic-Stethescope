@@ -84,7 +84,7 @@ Digitial Version of this device is in progress........
 ## License
 
 - Software is licensed under the [MIT License](LICENSE).
-- Hardware is licensed under the [CERN-OHL-S v2 License](CERN-OHL-S.txt).
+- Hardware is licensed under the [CERN-OHL-S v2 License](LICENSE-CERN-OHL-S).
 
 
 ![Static Badge](https://img.shields.io/badge/Made%20With%20Love%20By-SHREENANDAN%20SAHU-5a189a?style=flat-square) ![Static Badge](https://img.shields.io/badge/Designed%20Developed%20&%20Made%20In-INDIA-a53860?style=flat-square) 
