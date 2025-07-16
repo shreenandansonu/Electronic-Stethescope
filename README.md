@@ -33,6 +33,10 @@ Digitial Version of this device is in progress........
 [SOFTWARE DOWNLOAD](https://cmcekobit.netlify.app/)
 ---
 
+## **DOCUMENTATION**
+[DOCUMENTATION DOWNLOAD](https://cmcekobit.netlify.app/EKOBIT.pdf)
+---
+
 | Top View | Bottom View |
 | :-------------------------------------------: | :-------------------------: |
 | ![Front View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/front.png)  |  ![Bottom View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/back.png) |
