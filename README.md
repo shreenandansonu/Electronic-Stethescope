@@ -9,7 +9,7 @@ This project aims at making an affordable yet powerful **electronics stethoscope
 
 ---
 
-![EKOBIT PCB IMAGE](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/iso.png)
+![EKOBIT PCB IMAGE](photos/iso.png)
 
 ### **OBJECTIVE**
 ---
@@ -39,53 +39,53 @@ Digitial Version of this device is in progress........
 
 | Top View | Bottom View |
 | :-------------------------------------------: | :-------------------------: |
-| ![Front View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/front.png)  |  ![Bottom View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/back.png) |
+| ![Front View](photos/front.png)  |  ![Bottom View](photos/back.png) |
 
 ---
 | PCB Layout | Schematics |
 | :-------------------------------------------: | :-------------------------------------------: |
-| ![PCB View](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/PCB.png)  | ![Schematics](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/schematics.png) |
+| ![PCB View](photos/PCB.png)  | ![Schematics](photos/schematics.png) |
 
 
 ---
 | Stethoscope Connector | Stethoscope Enclouser |
 | :-------------------------------------------: | :-------------------------------------------: |
-| ![EKOBIT Stethoconn](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/11.jpg)  | ![EKOBIT enclouser](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/12.png) |
+| ![EKOBIT Stethoconn](photos/11.jpg)  | ![EKOBIT enclouser](photos/12.png) |
 
 
 ### **RAW VS PROCESSED** signal DSO
 
-![DSO Compare](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/13.png)
+![DSO Compare](photos/13.png)
 
 ### **RECORDING SOFTWARE**
 
-![Software Anatomy](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/software.png)
+![Software Anatomy](photos/software.png)
 
 ### **SPECTOGRAM OF RECORDED SOUND**
 
-![Spectrogram](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/Spectogram.png)
+![Spectrogram](photos/Spectogram.png)
 
 ---
 ### **FINAL DEVICE DEVELOPED**
 | **FINAL PRODUCT** | **HARDWARE** |
 | :-------------------------------------------: | :-------------------------: |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a1.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a2.jpg) |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a3.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a4.jpg) |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/3.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/5.jpg) |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/7.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/8.jpg) |
+| ![STETH](photos/a1.jpg)| ![STETH](photos/a2.jpg) |
+| ![STETH](photos/a3.jpg)| ![STETH](photos/a4.jpg) |
+| ![STETH](photos/3.jpg)| ![STETH](photos/5.jpg) |
+| ![STETH](photos/7.jpg)| ![STETH](photos/8.jpg) |
 
 ---
 ### **BEHIND THE DEVELOPMENT**
 | **PRODUCT DEVELOPMENT** | **PROTOTYPING** |
 | :-------------------------------------------: | :-------------------------: |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a10.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a9.jpg) |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a6.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/a7.jpg) |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/b1.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/b2.jpg) |
-| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/b4.jpg)| ![STETH](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/b3.jpg) |
+| ![STETH](photos/a10.jpg)| ![STETH](photos/a9.jpg) |
+| ![STETH](photos/a6.jpg)| ![STETH](photos/a7.jpg) |
+| ![STETH](photos/b1.jpg)| ![STETH](photos/b2.jpg) |
+| ![STETH](photos/b4.jpg)| ![STETH](photos/b3.jpg) |
 
-![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip1.jpg)
+![BTS PIXS](photos/clip1.jpg)
 
-![BTS PIXS](https://github.com/shreenandansonu/Electronic-Stethescope/blob/main/photos/clip2.jpg)
+![BTS PIXS](photos/clip2.jpg)
 
 ## License
 
