@@ -87,6 +87,11 @@ Digitial Version of this device is in progress........
 
 ![BTS PIXS](photos/clip2.jpg)
 
+## **SECOND VERSION IN PROGRESS**
+|SMD VERSION|
+|----|
+|![SMD](photos/v2.png)|
+
 ## License
 
 - Software is licensed under the [MIT License](LICENSE).
