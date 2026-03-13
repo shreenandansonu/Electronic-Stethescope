@@ -7,7 +7,7 @@
 This project aims at making an affordable yet powerful **electronics stethoscope** to **record and listen** to the Heart and Lungs Sound. The stethoscope would be primarily used for teaching purposes for medical students at CMC Vellore, Bagayam Campus, Vellore, Tamil Nadu India. Below mentioned are the objective.
 
 ---
-
+![EKOBIT PCB IMAGE](photos/iso.png)
 
 ![EKOBIT PCB IMAGE](photos/stethgif.gif)
 
