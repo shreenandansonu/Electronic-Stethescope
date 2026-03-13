@@ -9,7 +9,7 @@ This project aims at making an affordable yet powerful **electronics stethoscope
 ---
 
 
-![EKOBIT PCB IMAGE](photos/iso.png)
+![EKOBIT PCB IMAGE](photos/stethgif.gif)
 
 ### **OBJECTIVE**
 ---
